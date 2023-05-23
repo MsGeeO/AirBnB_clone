@@ -1,0 +1,76 @@
+o
+
+ãnes unittests for models/engine/file_storage.py.
+
+Unitet lasse	:
+ 
+  Tst il=Storage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+ã                   @   sÌ   ddatetime)o
+
+ Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úevie
+
+   sser	In
+id1   Ú=eyNÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8   z TestFileStorage_methods.test_newc                C   s@   |   t¡wssertInÚidr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8   z TestFileStorage_methods.test_newc                C   s@   |   t¡             @   sÌ   dÚit_new_with_argsf   s   wssertInÚidr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8   z TestFileStorage_methods.test_newc                C   s@   |   t¡eStorage)o
+
+ã                   @   sÌ   dÚUser)o
+ã                   @   sÌ   dÚState)o
+
+ã                   @   sÌ   dÚPlace)o
+
+ã                   @   sÌ   dÚCity)o
+
+e                   @   sÌ   dÚmenity)o
+adr   r   r>   r?   )	rvr   rB   rC   rD   rE   rF   rG   rH   Zobjsr   r   r  Úてst_reload‰   s0   eeeeeeeeeeeeee
+e
+   r   r   r    rT   r
+r   r   r  Útest_reload_with_arg£   r4   z,TestFileStorage_methods.test_reload_with_arg.engine.file_storager   Úもdels.userre   Úmodels.stater   Úmodels.placer  Úもdels.city   ÚTestFileStorage_instantiationzmodels.amenityr	   Ú
+models.reviewr
+	TestCaser  r&   r"   Úmainr   r   r   r  <module>  r   r   r  Útest_reload_with_arg£   r4   z,TestFileStorage_methods.test_reload_with_argN)   s&   
+ÚTestFileStorage_instantiationz=Unittests for testing instantiation of the FileStorage class.cnes unittests for models/engine/file_storage.py.
+
+Unittest classes:
+    TestFileStorage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+ã                   @   sÌ   ddatetime)o
+
+ã                   @   sÌ   dÚ	BaseModel)o
+
+ã                   @   sÌ   dÚileStorage)o
+
+ã                   @   sÌ   dÚUser)o
+
+ã                   @   sÌ   dÚState)o
+
+ã                   @   sÌ   dÚPlace)o
+
+ã                   @   sÌ   dÚCity)o
+
+torage__file_pathr
+	r   r   r  Ú)test_FileStorage_file_path_is_private_str!   r   zGTestFileStorage_instantiation.test_FileStorage_file_path_is_private_strctorage__file_pathr           torage__file_pathr   T   C   r   r   )tr
+ÚdictrnitializesN)	__name__Ú
+__module__Ú__qualname__Ú_doc__r      r
+ã   !                       @  sÌ   dÚReviewc                   @   s8   ektop/AirBnB_clone/tests/test_models/test_engine/test_file_storage.pyÚ&test_FileStorage_instantiation_no_args   ó   zDTestFileStorage_instantiation.test_FileStorage_instantiation_no_argsc )
+ÚTestFileStorage_instantiationz=Unittests for testing instantiation of the FileStorage class.cnes unittests for models/engine/file_storage.py.
+
+Unittest classes:
+    TestFileStorage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+ã                   @   sÌ   ddatetime)o
+
+ã                   @   sÌ   dÚ	BaseModel)o
+
+ã                   @   sÌ   dÚileStorage)o
+
+ã                   @   sÌ   dÚmenity)o
+
+ã    etUp.   s
+ÿzTestFileStorage_methods.setUpc                C   sP   z  d¡             @   sÌ   dÚReviewc                   @   s9   et_FileStorage_instantiation_with_arg   s t_d S r'   )r*   Úremover,   r+   r   r   r  r   r   r  tearDown5   s   ÿzETestFileStorage_instantiation t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   rÿremover t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   rllA   s     r   r   r  tearDown5   s   ÿzETestFileStorage_instantiation t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   rÿremover t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   r   
+"ÿzETestFileStorage_instantiation.test_FileStorage_instantiation_with_argc                 C   ó   |   t
